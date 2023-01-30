@@ -12,6 +12,10 @@ Instructions to Install
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
+**OPTIONAL TEXTURES**
+- ISU Markings (face)
+- Steel blue eyes
+
 Uninstallation
 ------
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
