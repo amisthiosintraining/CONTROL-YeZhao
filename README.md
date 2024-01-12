@@ -1,8 +1,7 @@
 # CONTROL | Ye Zhao
-Inspired by Oh My General's blue outfit.
+Inspired by Oh My General's blue outfit colours.
 
-Installation Instructions
-------
+## Installation
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
 3) Go into Textures folder and pick the design/recolour you want to use.
@@ -12,12 +11,11 @@ Installation Instructions
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
-**OPTIONAL TEXTURES**
+### Optional Textures
 - ISU Markings (face)
 - Steel blue eyes
 
-Uninstallation Instructions
-------
+## Uninstallation
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`,
